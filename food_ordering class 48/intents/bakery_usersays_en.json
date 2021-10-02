@@ -1,0 +1,92 @@
+[
+  {
+    "id": "671e564b-0977-4c25-8851-c964577f9668",
+    "data": [
+      {
+        "text": "dark chocolate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa2924ff-3906-4859-a8ef-22688ff59b4f",
+    "data": [
+      {
+        "text": "white",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      },
+      {
+        "text": " chocolate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a8e4f58-b718-49e3-b09b-add488da49d0",
+    "data": [
+      {
+        "text": "pastry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8fbaf02-263c-46c3-928c-c1ed2bfe6592",
+    "data": [
+      {
+        "text": "sweets",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "343e1b24-e213-408a-94f8-90e6bead4eee",
+    "data": [
+      {
+        "text": "brown",
+        "meta": "@sys.color",
+        "alias": "color",
+        "userDefined": false
+      },
+      {
+        "text": " bread",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c98ea959-264d-4aed-87db-25947e8c1889",
+    "data": [
+      {
+        "text": "cake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
